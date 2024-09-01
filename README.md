@@ -1,5 +1,5 @@
 # CODSOFT
-Java programs during 4 weeks CodSoft Internship 
+Java programs which were successfully debugged and executed. 
 <br>
 1. Number Game<br>
 2. ATM Interface <br>
