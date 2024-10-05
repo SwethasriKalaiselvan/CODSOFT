@@ -1,4 +1,4 @@
-# CODSOFT
+# JAVA
 Java programs which were successfully debugged and executed. 
 <br>
 1. Number Game<br>
